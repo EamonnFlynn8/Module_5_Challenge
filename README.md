@@ -266,4 +266,4 @@ Based on the visualizations that you created, answer the following questions:
 
 ---
 
-© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+© 2022 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.# Module_6_Challenge
